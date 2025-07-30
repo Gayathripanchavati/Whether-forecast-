@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #6dd5ed, #2193b0);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.weather-card {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px 40px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.weather-card h2 {
+  margin-bottom: 10px;
+}
+
+.temperature {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.icon {
+  width: 80px;
+  margin-top: 10px;
+}
