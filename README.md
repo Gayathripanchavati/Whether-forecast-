@@ -50,13 +50,6 @@ JavaScript (ES6) – dynamic content & DOM manipulation
 ![Screenshot_21-9-2025_122951_127 0 0 1](https://github.com/user-attachments/assets/1dfdb962-2baf-4522-a535-c684bdc67afc)
 ![Screenshot_21-9-2025_123015_127 0 0 1](https://github.com/user-attachments/assets/827473c4-0b53-4650-b74d-9fee2872469f)
 
-
-
-🌐 Live Demo
-
-Click here to view live demo
-https://github.com/Gayathripanchavati/Whether-forecast-/new/main?filename=README.md
-
 📂 Project Structure
 weather-app/
  ├── index.html       # Main HTML page
